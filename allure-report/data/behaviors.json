@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "devem poder realizar um cadastro",
+    "uid" : "85f513859ae9bbfa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598559901752,
+      "stop" : 1598559915102,
+      "duration" : 13350
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "deve poder realizar um login no sistema",
+    "uid" : "e0c4521d777125af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598559915289,
+      "stop" : 1598559919161,
+      "duration" : 3872
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "deve poder realizar logout no sistema",
+    "uid" : "2933dfdde244908c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598559919186,
+      "stop" : 1598559921444,
+      "duration" : 2258
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "deve poder cadastrar novos casos",
+    "uid" : "7e2b7668822cfe4d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598559921452,
+      "stop" : 1598559926815,
+      "duration" : 5363
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "deve poder excluir um caso",
+    "uid" : "16dd8c1c0232dca5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598559926970,
+      "stop" : 1598559929726,
+      "duration" : 2756
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
